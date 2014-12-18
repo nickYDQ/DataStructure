@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursive", "Recursive\Recursive.vcxproj", "{33759903-2645-4253-93FE-A622DF8B4330}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Haffman", "Haffman\Haffman.vcxproj", "{1CD8FFA6-B3AC-4525-A124-90ADAEBDC2D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Calculator.vcxproj", "{D34CA22B-9A97-432F-8891-0C5A99BB14A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkList", "LinkList\LinkList.vcxproj", "{3C46EB8C-7A54-4BAE-9AD2-A8472DA4CADC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ufs", "usf\yqd.vcxproj", "{622C6F0B-4888-44B1-A7AF-C6E68DC5C20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33759903-2645-4253-93FE-A622DF8B4330}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33759903-2645-4253-93FE-A622DF8B4330}.Debug|Win32.Build.0 = Debug|Win32
+		{33759903-2645-4253-93FE-A622DF8B4330}.Release|Win32.ActiveCfg = Release|Win32
+		{33759903-2645-4253-93FE-A622DF8B4330}.Release|Win32.Build.0 = Release|Win32
+		{1CD8FFA6-B3AC-4525-A124-90ADAEBDC2D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CD8FFA6-B3AC-4525-A124-90ADAEBDC2D7}.Debug|Win32.Build.0 = Debug|Win32
+		{1CD8FFA6-B3AC-4525-A124-90ADAEBDC2D7}.Release|Win32.ActiveCfg = Release|Win32
+		{1CD8FFA6-B3AC-4525-A124-90ADAEBDC2D7}.Release|Win32.Build.0 = Release|Win32
+		{D34CA22B-9A97-432F-8891-0C5A99BB14A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D34CA22B-9A97-432F-8891-0C5A99BB14A6}.Debug|Win32.Build.0 = Debug|Win32
+		{D34CA22B-9A97-432F-8891-0C5A99BB14A6}.Release|Win32.ActiveCfg = Release|Win32
+		{D34CA22B-9A97-432F-8891-0C5A99BB14A6}.Release|Win32.Build.0 = Release|Win32
+		{3C46EB8C-7A54-4BAE-9AD2-A8472DA4CADC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C46EB8C-7A54-4BAE-9AD2-A8472DA4CADC}.Debug|Win32.Build.0 = Debug|Win32
+		{3C46EB8C-7A54-4BAE-9AD2-A8472DA4CADC}.Release|Win32.ActiveCfg = Release|Win32
+		{3C46EB8C-7A54-4BAE-9AD2-A8472DA4CADC}.Release|Win32.Build.0 = Release|Win32
+		{622C6F0B-4888-44B1-A7AF-C6E68DC5C20F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{622C6F0B-4888-44B1-A7AF-C6E68DC5C20F}.Debug|Win32.Build.0 = Debug|Win32
+		{622C6F0B-4888-44B1-A7AF-C6E68DC5C20F}.Release|Win32.ActiveCfg = Release|Win32
+		{622C6F0B-4888-44B1-A7AF-C6E68DC5C20F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
